@@ -24,7 +24,7 @@
 
 # Contribuir 📚
 
-Si deseas contribuir al proyecto, consulta la guía [CONTRIBUTING.md](https://github.com/Monster-Legends-Forever/.github/blob/main/CONTRIBUTING.md) antes de comenzar.
+Si deseas contribuir al proyecto, consulta la guía [CONTRIBUTING.md](www.markut.com) antes de comenzar.
 
 # Contribuidores:
 ## Desarrolladores:
